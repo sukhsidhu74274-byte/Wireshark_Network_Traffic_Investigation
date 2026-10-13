@@ -1,0 +1,12 @@
+# Raw captures and potentially sensitive traffic
+*.pcap
+*.pcapng
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment and secrets
+.env
+.venv/
+venv/
